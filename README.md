@@ -20,11 +20,7 @@ This project is designed to provide profound insights into road safety, driving 
  *  When the data was on MS Excel, duplicates data were deleted 
  *  I used TRANSFORM DATA option and used REPLACED VALUE since the data had some wrong spelling.
    
-
-
-
-
-  
+## DASHBOARD
 ![image](https://github.com/Odejohn/-road_accident/assets/136746123/2e071829-8ae5-4b8e-9566-987872b5b8ae)
 
 
